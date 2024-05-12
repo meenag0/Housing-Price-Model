@@ -1,5 +1,3 @@
-# Housing-Price-Model
-
 # Housing Price Prediction Model
 
 This Jupyter notebook explores regression models to predict housing prices based on the California housing dataset. It includes data visualization, preprocessing, and model evaluation using multiple regression techniques.
